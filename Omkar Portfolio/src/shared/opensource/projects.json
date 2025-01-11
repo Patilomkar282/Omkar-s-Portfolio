@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Inventory-Management-Project",
+      "createdAt": "2024-05-01",
+      "url": "https://github.com/Patilomkar282/Inventory-Management-Project-main",
+      "description": "📦Developed a full-stack inventory management system to track and manage inventory data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Php",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        },
+        {
+          "name": "Css",
+          "iconifyClass": "logos-css"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Attendance-Management-System",
+      "createdAt": "2024-03-30",
+      "url": "https://github.com/Patilomkar282/Attendance-Management-System.git",
+      "description": "📦 Developed for efficient managemnt & handling the Data,is is main DB Project.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "php",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "Css",
+          "iconifyClass": "logos-Css"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Portfolio-Application",
+      "createdAt": "2024-09-07",
+      "url": "https://github.com/Patilomkar282/Portfolio",
+      "description": "🔥 The Complete Customizable Software Developer Portfolio which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "reactjs",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Seminar Project",
+      "createdAt": "2024-09-01",
+      "url": "https://github.com/Patilomkar282/seminar_model",
+      "description": "🌀 Basic seminar model which restrict to upload suspecious file on cloud i.e Google Drive.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "simple-icons:Html"
+        },
+        {
+          "name": "Css",
+          "iconifyClass": "logos-css"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Kundali Project",
+      "createdAt": "2025-01-04",
+      "url": "https://github.com/Patilomkar282/Kundali-client",
+      "description": "⚙️ Ongoing Project.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "react",
+          "iconifyClass": "logos-react"
+        },{
+          "name": "nodejs",
+          "iconifyClass": "logos-nodejs"
+        },{
+          "name": "expressjs",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Auto-Corrrection",
+      "createdAt": "2024-08-17",
+      "url": "https://github.com/gi728h/athena-automation",
+      "description": "🚀Ongoing Internship Project based on MERN stack Application.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "react",
+          "iconifyClass": "logos-react"
+        },{
+          "name": "nodejs",
+          "iconifyClass": "logos-nodejs"
+        },{
+          "name": "expressjs",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "Mysql",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    }
+  ]
+}
